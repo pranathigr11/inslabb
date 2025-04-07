@@ -1,0 +1,29 @@
+{
+  "name": "secure-msg-capsule",
+  "version": "1.0.0",
+ 
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pranathi g r",
+  "license": "ISC",
+  "description": "ins mini project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranathigr11/miniproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranathigr11/miniproject/issues"
+  },
+  "homepage": "https://github.com/pranathigr11/miniproject#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
